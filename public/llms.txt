@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+בובות ספוג בעבודת יד, ציוד לגני ילדים ואביזרים לחגים ומסיבות — הכול במקום אחד. תיבת הדמיון מביאה קסם, צבע ויצירתיות לכל ילד. גלי את הקולקציה עכשיו!
+
+### פתרונות
+https://example.com/solutions
+מחפשת ציוד לגני ילדים שמשלב למידה עם כיף? אביזרי ספוג בעבודת יד, משחקים חינוכיים ואביזרים לחגים — כל מה שגננת, מפעילה או הורה צריכים כדי להצית דמיון. גלי את הפתרונות שלנו!
+
+### אודות
+https://example.com/about
+תיבת הדמיון נולדה מאהבה לילדים וליצירה. כל בובת ספוג ואביזר מעוצבים בעבודת יד עם לב שלם, כדי שכל גן ילדים יהפוך למקום של קסם וצמיחה. הכירי את הסיפור שלנו!
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה על ציוד לגני ילדים, הזמנה מיוחדת או רעיון לאביזרי ספוג בעבודת יד? אנחנו כאן בשבילך! צרי איתנו קשר עוד היום ונשמח להתאים לך את הפתרון המושלם לגן או למסיבה.
+
+### Products
+https://example.com/products
+המוצרים שלנו - תיבת הדמיון
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - תיבת הדמיון
+
+### Category
+https://example.com/category/:slug
+מוצרים - תיבת הדמיון
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
